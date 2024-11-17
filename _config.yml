@@ -12,8 +12,8 @@ title                    : "Dan Dong / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Dan Dong"
 description              : &description "IT Auditor and Risk Consultant"
-url                      : "https://superaileen.github.io/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "/DanDong.github.io" # the subpath of your site, e.g. "/blog"
+url                      : "https://dandong.github.io/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SuperAileen/DanDong.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
