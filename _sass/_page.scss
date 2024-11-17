@@ -55,7 +55,13 @@
     border-bottom: 1px solid $border-color;
   }
 
-  p, li, dl {
+  p {
+    font-size: 0.9em;
+  }
+  li {
+    font-size: 1em;
+  }
+  dl {
     font-size: 1em;
   }
 
